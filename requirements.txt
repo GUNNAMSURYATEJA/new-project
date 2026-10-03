@@ -1,0 +1,4 @@
+# Pinned on 2026-10-03 (Python 3.12, Linux, CPU-only). Pure NumPy — no ML frameworks.
+numpy==1.26.4
+matplotlib==3.6.3
+pytest==9.1.1
